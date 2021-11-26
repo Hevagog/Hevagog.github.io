@@ -24,5 +24,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-(src/Telos1)
+![telos](/src/Telos1.jpg)
 ```
