@@ -21,7 +21,7 @@ New iteration of Telos.
   <img src="/src/render2.png">
 </p>
 <p align="center">
-  <img src="/srv/render1.png">
+  <img src="/src/render1.png">
 </p>
 ### Credits:
 
