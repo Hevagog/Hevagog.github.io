@@ -15,6 +15,14 @@ Project that involves a handful of students who are dedicated to improve the rea
 <img src="/src/2.png">
 </p>
 
+### Telosv2:
+New iteration of Telos.
+<p align="center">
+  <img src="/src/render2">
+</p>
+<p align="center">
+  <img src="/srv/render1">
+</p>
 ### Credits:
 
 [Przemyslaw Maresz](https://przemyslawmaresz.github.io)
